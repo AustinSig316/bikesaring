@@ -31,4 +31,8 @@ No trends can be found at all for day usage when it comes to non-suscribed users
 ![Weekday usage by gender](resources/Gender_weekday.png)
     
   ## Summary
+Tableau public link is posted below.
+
+[link to dashboard](https://public.tableau.com/views/Bikesharing_16387606767810/DesMoinesBikesharingstory?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 Overall, we can see that users like the product and end up subscribing. Males overwhelmingly use the service around work times. Age wise users are middle-aged or millenials. However, there could be a reporting error and millenials look to be the more consistant generation of users. The demographics of Des Moines will weigh heavily in in bike sharing will be successful. There will need to be an alaysis consisting of Census data to determine if this will be a profitable move. I would also consider where the bikes are being used in New York to see if Des Moines can resemble the service is viable. For example, are the bikes used in recreational areas, shopping districts, and are they to areas that are mainly businesses that aren't retail. Another would be population density and traffic. New York has high density and traffic around the city is difficult to navigate which makes bikes a fantastic option. Finally, I would also look at public transportation and it's availabilty and usage. New York has plenty of public transportation and with the denisty sometimes it isn't the most viable. If this holds true in Des Moines or there is a lack of public traansportation this could be a wonderful opportunity.
